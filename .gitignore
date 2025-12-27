@@ -1,0 +1,63 @@
+# ======================
+# Compiled binaries
+# ======================
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+*.dll
+
+# ======================
+# Build directories
+# ======================
+build/
+bin/
+dist/
+out/
+
+# ======================
+# Debug / profiler files
+# ======================
+*.dSYM/
+*.gcda
+*.gcno
+*.gcov
+gmon.out
+
+# ======================
+# Editor / IDE files
+# ======================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ======================
+# macOS system files
+# ======================
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ======================
+# Temporary files
+# ======================
+*~
+*.tmp
+
+# ======================
+# Other files
+# ======================
+*.m
+*.h
+a.out
+*.out
+*.exe
+
+# ======================
+# only selected C files
+# ======================
+*.c
+!Matrices.c
