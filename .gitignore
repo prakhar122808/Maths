@@ -57,9 +57,10 @@ a.out
 *.exe
 
 # ======================
-# Other files
+# Other folders
 # ======================
 CodeForces/
+cs50/
 
 # ======================
 # only selected C files
